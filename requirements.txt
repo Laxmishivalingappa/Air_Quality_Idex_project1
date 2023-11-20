@@ -1,10 +1,11 @@
 pandas 
 numpy
-Flask
 matplotlib
 seaborn
+Flask
 scikit-learn
-ipykernel
 scipy
+pymongo
 mlflow
-pymongo 
+
+-e .
